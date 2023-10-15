@@ -1,6 +1,6 @@
 # queries_psqlDB
-Cantek IT Program:
-IT instructor : Will Edwards
+## Cantek IT Program:
+## IT instructor : Will Edwards
 
 
 Northwind databse relationship
