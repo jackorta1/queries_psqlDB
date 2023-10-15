@@ -1,7 +1,9 @@
 # queries_psqlDB
 ### Cantek IT Program:
 ### IT instructor : Will Edwards
-<img src="./assets/hello-dark.gif#gh-light-mode-only" align="right" height="220" width="210" />
+ <p align="center">
+  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
+</p>
 
 # Northwind databse relationship
  
