@@ -11,7 +11,7 @@ Northwind databse relationship
 
 **
 ## Introduction :
-"I am utilizing the Northwind database for data analytics. This database comprises several tables, including but not limited to categories, employees, 
+$  I am utilizing the Northwind database for data analytics. This database comprises several tables, including but not limited to categories, employees, 
 orders, order details, customers (companies), and products, among others, to support our analytical efforts."
 
 ## Implementation : 
