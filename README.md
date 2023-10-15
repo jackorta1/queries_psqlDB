@@ -9,7 +9,6 @@
   <img src="https://github.com/jackorta1/queries_psqlDB/assets/52336451/b0400c2a-dcc1-4c19-b345-7f6b2489dad8" alt="Sublime's custom image"/>
 </p>
  
-![images](https://github.com/jackorta1/queries_psqlDB/assets/52336451/b0400c2a-dcc1-4c19-b345-7f6b2489dad8)
  
 ![ErD](https://github.com/jackorta1/queries_psqlDB/assets/52336451/8f2cc54c-7c1c-4813-a357-476ee63b40d7)
 
