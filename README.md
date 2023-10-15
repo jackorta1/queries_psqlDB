@@ -7,6 +7,8 @@ Northwind databse relationship
 
 ![ErD](https://github.com/jackorta1/queries_psqlDB/assets/52336451/8f2cc54c-7c1c-4813-a357-476ee63b40d7)
 
+
+
 Introduction : 
 here i am using Northwind database for data analytics . the database consist of the following tables:  
 category, empployees, orders, order details , customers (company) and products , beside others assitance 
