@@ -9,8 +9,8 @@ Northwind databse relationship
 
 
 
-*Introduction :*
-## Table of contents
+**
+## Introduction :
 here i am using Northwind database for data analytics . the database consist of the following tables:  
 category, empployees, orders, order details , customers (company) and products , beside others assitance 
 tables 
