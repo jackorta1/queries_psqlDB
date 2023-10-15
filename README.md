@@ -18,8 +18,8 @@ tables
 ## Implementation : 
 
 * 1.nagivate  the most in-demand product.
-* 2.Represent the top sales by country.
-* 3.View customer orders.
+  2.Represent the top sales by country.
+  3.View customer orders.
 * 4.Navigate sales by specifying the year.
 * 5.Measure the days between the order date and the shipping date. If there is no date in the shipping date, that means the shipping process is still pending.
 * 6.Demonstrate the top customer orders.
