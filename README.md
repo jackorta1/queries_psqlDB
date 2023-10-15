@@ -24,5 +24,5 @@ Implementation :
 8.Union all suppliers and employees with a custom column "Supplier/Customer".
 9.Represent the employee territories.
 10.List the top 10 companies with the highest order recurrence.
-![image](https://github.com/jackorta1/queries_psqlDB/assets/52336451/a44590e9-afb2-49e9-a798-35075ab3b7d1)
+ 
 
