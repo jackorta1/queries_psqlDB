@@ -26,5 +26,7 @@ Northwind databse relationship
 ### * 8.Union all suppliers and employees with a custom column "Supplier/Customer".
 ### * 9.Represent the employee territories.
 ### * 10.List the top 10 companies with the highest order recurrence.
+
+[Source reference] (https://github.com/pthom/northwind_psql/blob/master/northwind.sql)
  
 
