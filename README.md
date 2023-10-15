@@ -2,7 +2,7 @@
 ### Cantek IT Program:
 ### IT instructor : Will Edwards
  <p align="center">
-  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
+  <img src="[https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true](https://github.com/jackorta1/queries_psqlDB/assets/52336451/b0400c2a-dcc1-4c19-b345-7f6b2489dad8)" alt="Sublime's custom image"/>
 </p>
 
 # Northwind databse relationship
