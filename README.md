@@ -16,7 +16,7 @@ tables
 
 Implementation : 
 
-1.1et the most in-demand product.
+1.nagivate  the most in-demand product.
 2.Represent the top sales by country.
 3.View customer orders.
 4.Navigate sales by specifying the year.
